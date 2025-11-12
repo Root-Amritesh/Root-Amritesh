@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**Root-Amritesh/Root-Amritesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛡️ Amritesh
 
-Here are some ideas to get you started:
+Aspiring cybersecurity professional focused on **Python, Linux, and offensive security**.  
+I’m building small tools, writing labs + CTF notes, and learning by doing — consistently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Current Focus
+- Python scripting
+- Linux + shell fundamentals
+- comptia network and security+ CERTS
+- Web security basics (OWASP)
+- Version control (Git/GitHub)
+
+---
+
+## 🧰 Tools
+- Python
+- Kali Linux 
+- VS Code
+- Git / GitHub
+
+---
+
+## 📁 Repositories (aligned to Red-Team → CISO roadmap)
+
+- `python-security` — scripting + automation + Basics.
+
+**➡️ `PROJECTS` — real builds + red-team tooling**
+
+## *(repos will grow as I learn)*
+
+---
+
+## 📈 Near-Term Goals
+- Build 3–5 practical cyber scripts
+- Document 10+ CTF challenges
+- Learn networking fundamentals and Security+ (Comptia certs)(hands-on)
+- Start reading source code of small tools
+
+---
+
+## 📫 Contact
+📧 amritesh.cybersec@gmail.com
