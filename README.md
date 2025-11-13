@@ -2,7 +2,7 @@
 
 # 🛡️ Amritesh
 
-Aspiring cybersecurity professional focused on **Python, Linux, and offensive security**.  
+Aspiring cybersecurity professional focused on **Python, Linux, Defensive and offensive security**.  
 I’m building small tools, writing labs + CTF notes, and learning by doing — consistently.
 
 ---
